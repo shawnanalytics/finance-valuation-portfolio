@@ -1,21 +1,62 @@
 # FirstRand Limited — Banking & Regulatory Capital Framework
 
-## Objective
-Assess sustainable ROE under Basel III capital constraints and determine intrinsic value using residual income and dividend discount methodologies.
+## Overview
+This project develops a structured banking valuation and capital sustainability framework for FirstRand Limited, integrating historical performance analysis with forward-looking intrinsic valuation under Basel III regulatory constraints.
 
-## Model Components
-- 5-year banking performance model (NII, NIM, CLR)
+The objective is to assess sustainable ROE, capital adequacy durability, and valuation expectations embedded in current market pricing.
+
+---
+
+## Objective
+- Evaluate sustainable Return on Equity (ROE) across credit cycles.
+- Assess capital resilience under Basel III CET1 requirements.
+- Determine intrinsic value using Residual Income and Dividend Discount Models.
+- Reverse engineer market-implied profitability expectations.
+
+---
+
+## Methodology
+
+### Phase 1: Historical Performance (FY2021–FY2025)
+- Net Interest Income (NII) analysis
+- Net Interest Margin (NIM) trend assessment
+- Credit Loss Ratio (CLR) evaluation
 - DuPont ROE decomposition
-- CET1 & RWA stress testing
-- Residual income & DDM valuation
+- Capital ratio analysis (CET1, RWA)
+
+### Phase 2: Valuation & Capital Sustainability
+- Residual income valuation framework
+- Dividend Discount Model (DDM)
+- Sustainable ROE estimation
 - Market-implied ROE reverse engineering
+- Stress testing under capital and credit cycle scenarios
+
+---
 
 ## Key Insight
-High-teens sustainable ROE supported by resilient capital buffers. Current valuation embeds elevated profitability expectations relative to normalized credit cycles.
+FirstRand demonstrates high-teens sustainable ROE supported by resilient capital buffers. However, current market pricing reflects elevated profitability expectations relative to normalized credit conditions, indicating valuation sensitivity to credit cycle dynamics.
+
+---
+
+## Data Sources
+- FirstRand Annual Financial Statements (FY2021–FY2025)
+- Public regulatory disclosures
+- Investor presentations
+
+---
+
+## Repository Contents
+- 5-Year Banking Performance Model
+- ROE Decomposition Framework
+- Regulatory Capital Assessment
+- Residual Income & DDM Valuation Model
+
+---
 
 ## Skills Demonstrated
-- Regulatory capital modeling
-- Stress testing
-- Credit cycle analysis
+- Banking financial statement modeling
+- Regulatory capital analysis (Basel III)
+- DuPont ROE decomposition
+- Stress testing methodology
 - Residual income valuation
 - Market expectation modeling
