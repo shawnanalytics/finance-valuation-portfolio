@@ -120,19 +120,6 @@ The active cell (matching current slider values) is highlighted with a red borde
  
 ---
  
-## Repository Structure
- 
-```
-shoprite-jse-dashboard/
-├── Shoprite_JSE_Dashboard.pbix       # Main Power BI file
-├── Shoprite_JSE_Dashboard.pdf        # Dashboard export (all 7 pages)
-├── README.md                         # This file
-└── data/
-    └── Shoprite_FY2025_AFS.xlsx      # Source financial data
-```
- 
----
- 
 ## Author
  
 Built by **Saun Sibanyoni** · [@shawnanalytics](https://github.com/shawnanalytics)
