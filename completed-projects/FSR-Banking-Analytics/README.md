@@ -9,6 +9,22 @@
 
 ---
 
+## Dashboard Preview
+
+### Live DDM Valuation Engine — Ke Engine (Page 5)
+![Ke Engine](ke-engine.png)
+*5-slider live cost of equity engine. Bull/Base/Bear scenario bookmarks update all 8 output cards simultaneously. Ke = 14.29% at base case inputs.*
+
+### Basel III Capital & Risk (Page 8)
+![Basel III Risk](basel-iii.png)
+*CET1 trend vs regulatory minimum (9%) and internal target (11.5%). RAROC = 17% → Strong value creation. LCR and NSFR both above 100%.*
+
+### Dynamic Sensitivity Heatmap (Page 7)
+![Sensitivity](sensitivity.png)
+*Live 6×6 Justified P/B matrix driven by Ke Engine sliders. Gold cell tracks current scenario. Green-to-red scale: P/B < 1.0 (red) → P/B > 2.0 (green).*
+
+---
+
 ## Overview
 
 A production-grade, 14-page banking analytics terminal built in Power BI, covering FirstRand Limited's full financial profile: income statement decomposition, balance sheet trends, DuPont ROE attribution, live DDM valuation engine, Basel III capital adequacy, IFRS 9 credit quality, stress testing, peer benchmarking, and forward earnings projection.
@@ -250,7 +266,7 @@ Disconnected (no relationships):
 
 ## Author
 
-**Saun Sibanyoni**
+**Shawn Sibanyoni**
 [github.com/shawnanalytics/finance-valuation-portfolio](https://github.com/shawnanalytics/finance-valuation-portfolio)
 
 *Source data: FirstRand Limited FY2024 Annual Financial Statements (IFRS). Peer data sourced from respective FY2024 published AFS. This dashboard is for portfolio and educational purposes only and does not constitute investment advice.*
